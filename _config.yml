@@ -40,11 +40,11 @@ features                                  :
     
   - title                                 : Stay Informed
     description                           : Summary dashboard for an at-a-glance overview of your monthly costs
-    fontawesome_icon_name                 : mobile
+    fontawesome_icon_name                 : chart-pie
 
   - title                                 : Notifications
     description                           : Set reminders so you never forget to cancel or renew your subscriptions before its too late
-    fontawesome_icon_name                 : play-circle
+    fontawesome_icon_name                 : bell
 
   - title                                 : iCloud Sync
     description                           : iCloud sync between devices 
