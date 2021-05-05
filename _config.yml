@@ -19,14 +19,14 @@ enable_smart_app_banner                   : true                                
 
 
 # Information About Yourself
-your_name                                 : Mike Sabens                               
+your_name                                 :                                
 your_link                                 :                      
-your_city                                 : Orlando                                
+your_city                                 :                               
 email_address                             : info@slip3studios.com
 facebook_username                         :                                           
 instagram_username                        : 
-twitter_username                          : sabensmg
-github_username                           : sabensm
+twitter_username                          : daxalapp
+github_username                           : slip3studios
 youtube_username                          :
 
 
@@ -69,7 +69,7 @@ topbar_color                              : "#000000"
 topbar_transparency                       : 0.1
 topbar_title_color                        : "#ffffff"
 
-cover_image                               : assets/headerimage.png                    # Replace with alternative image path or image URL.
+cover_image                               : assets/summary.jpg                    # Replace with alternative image path or image URL.
 cover_overlay_color                       : "#363b3d"
 cover_overlay_transparency                : 0.8
 
